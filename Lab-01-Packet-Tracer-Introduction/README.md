@@ -16,7 +16,9 @@ Become familiar with the Cisco Packet Tracer interface and complete the introduc
 
 - PCs
 - Switches
-- Routers (if included in the lab)
+- Routers
+- Firewalls
+- Servers
 
 ## Files Included
 
