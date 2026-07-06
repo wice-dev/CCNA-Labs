@@ -137,7 +137,6 @@ Advantages:
 
 ## Preview
 
-(Add the topology screenshot below.)
 
 ![Network Topology](topology.png)
 
